@@ -1,10 +1,10 @@
 ### Hi there 👋
 ## My name is Shun Ishibashi.
 
-#About me:
+# About me:
 I am a person who simply loves Apple and its products.
 
-#Don't forget to check out my website and Twitter!!
+# Don't forget to check out my website and Twitter!!
 
 <!--
 **sshibashi777/sshibashi777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
