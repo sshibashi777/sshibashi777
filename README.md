@@ -12,6 +12,14 @@ I am a person who simply loves Apple and its products.
 ![IMG_0064](https://user-images.githubusercontent.com/75736097/185054544-316b9e42-069d-4fc6-ac18-e420561c647e.JPG)
 
 
+
+
+
+
+![image](https://user-images.githubusercontent.com/75736097/185422625-bfab3ae6-fdec-43c4-91d1-823752136ddb.gif)
+
+
+
 <!--
 **sshibashi777/sshibashi777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
